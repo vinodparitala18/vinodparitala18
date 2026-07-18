@@ -118,13 +118,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🔥 Streak Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodparitala18&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏆 Achievements & Certifications
 
