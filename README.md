@@ -95,12 +95,30 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📈 GitHub Stats
+## 🐍 Contribution Activity
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinodparitala18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://raw.githubusercontent.com/vinodparitala18/vinodparitala18/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</div>
+
+<!-- ⚠️ SETUP REQUIRED (one-time, ~2 minutes):
+1. In this repo, go to Settings → Actions → General → set "Workflow permissions" to "Read and write permissions" → Save
+2. Add the file .github/workflows/snake.yml (provided separately) to this repo
+3. Go to the "Actions" tab and manually run the "Generate Snake" workflow once
+4. It will auto-run daily after that and keep the animation updated
+   Full guide: https://github.com/Platane/snk -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💻 Most Used Languages
+
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodparitala18&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🔥 Streak Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodparitala18&theme=tokyonight&hide_border=true" />
