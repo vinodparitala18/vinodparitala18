@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Business Systems @ **R.V.R. & J.C. College of Engineering** *(2022 – 2026)*
-- 🔧 Building end-to-end **data pipelines, ETL/ELT workflows, and cloud-native data platforms**
+- 🔧 Building end-to-end **data pipelines, ETL/ELT workflows, and cloud-native Lakehouses** — including production-style Medallion Architecture projects on both **AWS** and **Azure**
 - ☁️ Hands-on with **AWS, Azure, Databricks, Apache Airflow, dbt & PySpark**
 - 🤖 Strong foundation in **Machine Learning** — classification, regression & clustering with Scikit-learn
 - 🛠️ Practical **DevOps** exposure — Docker, Kubernetes, Jenkins, Terraform, CI/CD
@@ -77,17 +77,21 @@
 
 <div align="center">
 
-[![Emotion Detection From Text](https://github-readme-stats.vercel.app/api/pin/?username=vinodparitala18&repo=emotion-detection-from-text&theme=tokyonight&hide_border=true)](https://github.com/vinodparitala18/emotion-detection-from-text)
-[![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=vinodparitala18&repo=SQL_Projects&theme=tokyonight&hide_border=true)](https://github.com/vinodparitala18/SQL_Projects)
-[![Excel Projects](https://github-readme-stats.vercel.app/api/pin/?username=vinodparitala18&repo=Excel_projects&theme=tokyonight&hide_border=true)](https://github.com/vinodparitala18/Excel_projects)
+[![Walmart Data Engineering](https://github-readme-stats.vercel.app/api/pin/?username=vinodparitala18&repo=Walmart_DE_2&theme=tokyonight&hide_border=true)](https://github.com/vinodparitala18/Walmart_DE_2)
+[![Spotify Azure Lakehouse](https://github-readme-stats.vercel.app/api/pin/?username=vinodparitala18&repo=Spotify_Azure_Project_DE&theme=tokyonight&hide_border=true)](https://github.com/vinodparitala18/Spotify_Azure_Project_DE)
+[![AWS Cloud Optimization](https://github-readme-stats.vercel.app/api/pin/?username=vinodparitala18&repo=AWS-Cloud-Optimization&theme=tokyonight&hide_border=true)](https://github.com/vinodparitala18/AWS-Cloud-Optimization)
 
 </div>
 
-- 🧠 **[Emotion Detection From Text](https://github.com/vinodparitala18/emotion-detection-from-text)** — NLP model that extracts emotions from reviews, tweets & comments to surface customer-opinion insights.
-- 🗃️ **[SQL Projects](https://github.com/vinodparitala18/SQL_Projects)** — Collection of SQL queries and database exercises covering data extraction, joins, and analytics.
-- 📊 **[Excel Projects](https://github.com/vinodparitala18/Excel_projects)** — Data analysis and reporting projects built with Excel for business insight generation.
+- 🛒 **[Walmart — End-to-End Data Engineering](https://github.com/vinodparitala18/Walmart_DE_2)** — Medallion Architecture (Bronze–Silver–Gold) pipeline built with **Airflow, DBT, Databricks & AWS S3**; features incremental ingestion, Star Schema, SCD Type 2 dimensions, and automated data quality validation.
+- 🎧 **[Spotify — Azure Medallion Lakehouse](https://github.com/vinodparitala18/Spotify_Azure_Project_DE)** — Production-style pipeline with CDC ingestion from Azure SQL into a Bronze→Silver→Gold lakehouse, orchestrated via **Azure Data Factory + Databricks (PySpark, Delta Live Tables)**, governed by Unity Catalog, deployed with CI/CD.
+- ☁️ **[AWS Cloud Optimization Platform](https://github.com/vinodparitala18/AWS-Cloud-Optimization)** — Serverless FinOps solution using **Lambda, EventBridge, CloudWatch & SNS** to auto-detect underutilized infrastructure and trigger cost-saving remediation.
+- 🧠 **[SkillSync — AI Career Intelligence Platform](http://54.196.219.61:8000)** — AI resume parser & job-matching engine using **FastAPI + NLP (SentenceTransformer embeddings, cosine similarity)**, deployed on **AWS EC2**; delivers skill-gap analysis, learning roadmaps & role recommendations.
+- 🚗 **[Uber Customer Segmentation & Retention Analysis](https://github.com/vinodparitala18/Customer_Segmentation-Retention_Analysis)** — KMeans clustering on 500K+ ride records to uncover 4 behavioral customer segments, translated into actionable retention strategies.
+- 💳 **Credit Card Weekly Dashboard — Power BI & PostgreSQL** — Real-time BI dashboard connecting PostgreSQL to Power BI, tracking revenue, transactions, customer demographics & risk metrics across two auto-refreshing report pages.
 
-<!-- ✏️ Add more projects here in the same format as above, or replace these with newer ones -->
+<!-- ✏️ Double-check the repo links above match your exact GitHub URLs, and add a link for the Credit Card Dashboard project if it's on GitHub -->
+<!-- ✏️ Add more projects here in the same format as above -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
