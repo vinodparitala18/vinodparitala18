@@ -110,15 +110,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 💻 Most Used Languages
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodparitala18&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
 ## 🏆 Achievements & Certifications
 
 - 🦈 **Pull Shark** — GitHub Achievement
